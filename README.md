@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: I don't now how execute vs code in my macbook
+- ⚡ Fun fact: I don't now how execute code in "visual studio code" in my macbook
 
 <!---
 louca-lab/louca-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
