@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: 
+- ⚡ Fun fact: Error 418 : I'm a teapot
 
 <!---
 louca-lab/louca-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
